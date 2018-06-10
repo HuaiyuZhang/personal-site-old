@@ -1,1 +1,7 @@
+highlighter: Randomania
+name: Huaiyu's website
+description: Collecting ideas in statistics
+url: "https://huaiyuzhang.github.io"
+
+markdown: kramdown
 theme: jekyll-theme-minimal
