@@ -36,9 +36,14 @@ See [this](https://github.com/jekyll/minima#customization)
 
 ## Locally hosting (not necessary)：
 
-
-[guide](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
+[Github guide](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
 
 1. To manage the site locally, it is recommended to use local JekyII
 2. Download `ruby` for supporting `bundler` for `JekyII`.
+```
+jekyll serve
+```
 
+## MathJax
+[This](https://lyk6756.github.io/2016/11/25/write_latex_equations.html) eventually works.
+Only Kramdown works with Github.
