@@ -7,4 +7,4 @@ Bootstrap is one of the most ingenineous technique in statistics, especially wit
 
 ## Set up
 
-Suppose we have collected a group of iid observations, //( (x_1, \ldots, x_n) // )
+Suppose we have collected a group of iid observations, \\( (x_1, \ldots, x_n) \\)
