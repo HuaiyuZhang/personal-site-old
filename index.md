@@ -7,4 +7,4 @@
 #
 layout: home
 ---
-From old time, there is a lot of people working on statistics.
+This is my blog collecting what I learn and think on statistics. Hope the material would also be helpful for you.

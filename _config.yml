@@ -1,21 +1,19 @@
-title: HUAIYU'S PAGE
-author: HUAIYU ZHANG
-email: huaiyuzhang at gmail dot com
+title: huaiyu's page
+#author: HUAIYU ZHANG
+#email: huaiyuzhang at gmail dot com
 description: > # this means to ignore newlines until "twitter_username:"
-  This is the webpage for Huaiyu Zhang. If you would like to use my original material, please kindly cite my website.
-  
-  New things and words in statistics come out every single day. Absorb the new knowledge and get ideas from them. 
+  Step after step the ladder is ascended.
   
 
 # social links
 #twitter_username: jekyllrb
-github_username:  HuaiyuZhang
+# github_username:  HuaiyuZhang
 # rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-linkedin_username: Huaiyu Zhang
+# linkedin_username: Huaiyu Zhang
 # pinterest_username: jekyll
 # youtube_username: jekyll
 # googleplus_username: +jekyll
@@ -41,8 +39,8 @@ minima:
 # - about.html
 
 # Build settings
-#theme: minima
-theme: jekyll-theme-minimal
+theme: minima
+# theme: jekyll-theme-minimal # local jekyll does not recognise this theme.
 markdown: kramdown
 
 plugins:
