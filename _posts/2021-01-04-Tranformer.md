@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper Reading: Transformer
+title: Paper Reading--Transformer
 ---
 
 Raw paper link: https://arxiv.org/pdf/1706.03762
