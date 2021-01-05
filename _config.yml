@@ -39,7 +39,7 @@ minima:
 # - about.html
 
 # Build settings
-theme: minima
+theme: jekyll-theme-dinky
 # theme: jekyll-theme-minimal # local jekyll does not recognise this theme.
 markdown: kramdown
 
