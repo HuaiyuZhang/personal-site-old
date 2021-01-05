@@ -12,7 +12,7 @@ title: Paper Reading--Dynamic Risk Management
 
 The approach can be broken down and illustrated in the chart.
 
-(PUT FIGURE HERE)
+![]({{ site.url }}/assets/day2_pic1.PNG)
 
 ## Risk Aware
 Cap-weigted indices are construsted not reference to its risk, losing the potential benefit from diversification. Textbook finance tells that bearing higher risk is associated with higher expected returns.
