@@ -9,7 +9,9 @@ Overall, the Transformer is a simple model compared to the dominant sequence tra
 
 The sequential models usually share an auto-regressive fashion, the output sequence elements are generated one at a time. In this paradigm, the signals have to traverse a long distance when the sequences are long. In contrast, the Transformer has short travel paths for signals. This characteristic makes the model easier to learn the long-range dependencies. 
 
-![attention](![day1_pic1](https://user-images.githubusercontent.com/6701525/103703161-0fd02800-4f75-11eb-807b-049637656b44.PNG)
+![attention]({{ site.url }}/assets/day1_pic1.PNG)
+
+<img src="{{site.url}}/assets/day1_pic1.PNG"/>
 
 The left panel shows the attention scheme. An attention function can be described as **mapping a query and a set of key-value pairs to an output**.
 
