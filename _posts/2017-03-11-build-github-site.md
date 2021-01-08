@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Build github.io
+title: Build github.io with Jekyll
 ---
 
 1. Create a new repo called username.github.io
@@ -47,3 +47,15 @@ jekyll serve
 ## MathJax
 [This](https://lyk6756.github.io/2016/11/25/write_latex_equations.html) eventually works.
 Only Kramdown works with Github.
+
+In-line equation uses `$$math_expression$$` to quote. Separate line display can also use `$$math_expression$$` in a new line.
+
+
+## Images
+Adding images is a step easy to get error. Some points to pay attention: the spell is case sensitive; forward slash; path.
+
+My path always has error, this solution works:
+
+1. add `url: https://xxxxxx.github.io` to `_config.yml`
+
+2. insert image by `![image_name]({{ site.url }}/assets/image.PNG)`. Upload the image to `assets` folder under the root.
