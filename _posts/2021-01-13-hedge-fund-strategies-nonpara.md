@@ -13,7 +13,7 @@ The paper examines risk factors accepted by hedge funds to unveil the behavior. 
 
 Bali et al(2013) used an almost stochastic dominance approach and the manipulation proof performance measure (MPPM) to examine the relative performance of hedge fund portfolios. This paper uses non-parametric techniques to conduct reliable tests robust to serial and cross dependence.
 
-The market does not second order stochastically dominate hedge funds. Top performance lasts only for six months. Top performers are driven by different risk profile. They focus on narrower range of risk factors (top quintal, liquidity and lookback volatility) rather than SMB and HML Fama French factors. Momentum reversal is a big contributor to poor performance of mediocre funds.
+The market does not second order stochastically dominate hedge funds. Top performance lasts only for six months. Top performers are driven by different risk profile. They focus on narrower range of risk factors (liquidity and lookback volatility) rather than SMB and HML Fama French factors. Momentum reversal is a big contributor to poor performance of mediocre funds.
 
 ## Data
 
