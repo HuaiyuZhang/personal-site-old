@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper Reading--When it pays to follow the crowd$$:$$ Strategy conformity and CTA performance
+title: Paper Reading--When it pays to follow the crowd: Strategy conformity and CTA performance
 ---
 
 CTAs barely produce excess returns. Future markets feature strong serial correlation and result in robust momentum. In hedge funds, profitability is associated with the ability of finding unique opportunities. For example, Titman and Tiu (2010) use factor model to capture the returns of funds, low $$R^2$$ tend to outperform. Sun et al(2012) show hedge funds with lower correlation with peers tend to outperform. They defined Strategy Distinctiveness Index (SDI).
