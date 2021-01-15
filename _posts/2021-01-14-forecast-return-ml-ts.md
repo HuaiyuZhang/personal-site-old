@@ -69,7 +69,7 @@ $$X_t$$ is a vector of five variables.
 2. Use the same sum-of-parts method as David et al (2018). 
 
 $$
-r_{t+1} = \%\Delta PE_{t+1} + \%\Delta E_{t+1} + DP{t+1}  
+r_{t+1} = \%\Delta PE_{t+1} + \%\Delta E_{t+1} + DP_{t+1}  
 $$
 
 The $$\%\Delta PE$$ is from the VAR in step 1, $$\%\Delta E_{t+1}$$ and $$ DP_{t+1} $$ are from historical average.
