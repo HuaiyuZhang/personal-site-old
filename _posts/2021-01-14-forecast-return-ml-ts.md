@@ -40,7 +40,7 @@ $$
 
 The in-sample $$R^2$$ was $$54%$$ for 1926-2018 period. But the model performance degraded in recent time, partly due to the lack of mean reversion in the CAPE. The fair value of CAPE depends on macroeconomics factors not included in the model. The model considered by the paper:
 
-![model]({{ site.url }}/assets/day_9_pic_1.PNG)
+![model]({{ site.url }}/assets/day_9_pic1.PNG)
 
 The performance of ML methods is not different from naive historical average.
 
@@ -69,10 +69,10 @@ $$X_t$$ is a vector of five variables.
 2. Use the same sum-of-parts method as David et al (2018). 
 
 $$
-r_{t+1} = %\Delta PE_{t+1} + %\Delta E_{t+1} + DP{t+1}  
+r_{t+1} = \%\Delta PE_{t+1} + \%\Delta E_{t+1} + DP{t+1}  
 $$
 
-The $$%\Delta PE$$ is from the VAR in step 1, $$%\Delta E_{t+1}$$ and $$ DP{t+1} $$ are from historical average.
+The $$\%\Delta PE$$ is from the VAR in step 1, $$\%\Delta E_{t+1}$$ and $$ DP_{t+1} $$ are from historical average.
 
 ---
 
