@@ -40,7 +40,7 @@ $$
 
 The in-sample $$R^2$$ was $$54%$$ for 1926-2018 period. But the model performance degraded in recent time, partly due to the lack of mean reversion in the CAPE. The fair value of CAPE depends on macroeconomics factors not included in the model. The model considered by the paper:
 
-![model]({{ site.url }/assets/day_9_pic_1.PNG)
+![model]({{ site.url }}/assets/day_9_pic_1.PNG)
 
 The performance of ML methods is not different from naive historical average.
 
