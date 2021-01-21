@@ -54,8 +54,10 @@ In-line equation uses `$$math_expression$$` to quote. Separate line display can 
 ## Images
 Adding images is a step easy to get error. Some points to pay attention: the spell is case sensitive; forward slash; path.
 
-My path always has error, this solution works:
+My path always has error, [this solution](http://sgeos.github.io/github/jekyll/2016/08/30/adding_images_and_downloads_to_a_github_pages_jekyll_blog.html) works:
 
 1. add `url: https://xxxxxx.github.io` to `_config.yml`
 
 2. insert image by `![image_name]({{ site.url }}/assets/image.PNG)`. Upload the image to `assets` folder under the root.
+
+
